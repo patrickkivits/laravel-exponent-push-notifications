@@ -4,7 +4,6 @@ namespace NotificationChannels\ExpoPushNotifications\Test;
 
 use Mockery;
 use ExponentPhpSDK\Expo;
-use PHPUnit\Framework\TestCase;
 use Illuminate\Events\Dispatcher;
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Notifications\Notification;
