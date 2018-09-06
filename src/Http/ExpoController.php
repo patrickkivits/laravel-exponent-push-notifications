@@ -14,7 +14,7 @@ class ExpoController extends Controller
     /**
      * @var ExpoChannel
      */
-    private $expoChannel;
+    public $expoChannel;
 
     /**
      * ExpoController constructor.
